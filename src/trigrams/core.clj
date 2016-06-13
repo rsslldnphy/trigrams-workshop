@@ -1,6 +1,6 @@
 (ns trigrams.core
   (:gen-class))
 
-(defn main
+(defn -main
   [& args]
   (println "I don't do anything yet..."))
